@@ -1,0 +1,17 @@
+PODS:
+  - MBProgressHUD (1.0.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - MBProgressHUD
+  - SDWebImage (~> 3.8)
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 2c5de683a75ec20d07de03dd53f55f92bca6a1f3
+
+COCOAPODS: 1.0.1
